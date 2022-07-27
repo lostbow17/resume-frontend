@@ -1,0 +1,19 @@
+#body {
+    margin: 2%;
+    padding: 25px;
+    border-style: dotted;
+    border-color: black;
+    font-family: 'Times New Roman', Garamond, Georgia;
+}
+
+h2 {
+    border-bottom-style: solid;
+}
+
+#me {
+    text-align: center;
+}
+
+strong {
+    font-size: larger;
+}
