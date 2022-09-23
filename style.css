@@ -18,8 +18,7 @@ strong {
     font-size: larger;
 }
 
-/* Center child elements */
-body,
+
 .website-counter {
   display: flex;
   justify-content: center;
